@@ -1,8 +1,8 @@
 # IMSC-1.0.1_Text_TestContent
 
-This repository was forked from https://github.com/FoxMediaServices/IMSC-1.0.1_Text_TestContent with the intent to increase the reach of the materials provided, per https://www.w3.org/2019/02/21-tt-minutes.html#item07
+**Note: While this reel is still a valid suite of tests, it is recommended that the newer [IMSC-1.1_Text_TestContent](https://github.com/w3c/IMSC-1.1_Text_TestContent) is used.**
 
-**Note: While this reel is still a valid suite of tests, it is recommended that the newer [IMSC-1.1_Text_TestContent](https://github.com/FoxMediaServices/IMSC-1.1_Text_TestContent) is used.**
+This repository was forked from https://github.com/FoxMediaServices/IMSC-1.0.1_Text_TestContent with the intent to increase the reach of the materials provided, per https://www.w3.org/2019/02/21-tt-minutes.html#item07
 
 This reel was created to address early IMSC decoding issues by providing manufacturers with a reference IMSC 1.0/1.0.1 text implementation. The included tests are all pertinent to subtitles produced for production content.
 
